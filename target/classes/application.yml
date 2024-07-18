@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: templatelambda
-  main:
-    lazy-initialization: true
-    banner-mode: off
